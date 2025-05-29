@@ -1,3 +1,4 @@
+//Added Vote entity and logic to record user votes
 package narxoz.kz.controller;
 
 import narxoz.kz.auth.UserRepository;
