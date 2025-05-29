@@ -1,3 +1,6 @@
+//"Implemented Candidate and Election models with basic relationships"
+
+
 package narxoz.kz.model;
 
 import jakarta.persistence.*;
