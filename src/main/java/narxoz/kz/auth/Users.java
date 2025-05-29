@@ -1,3 +1,4 @@
+//Set up user authentication with Spring Security and roles
 package narxoz.kz.auth;
 
 import jakarta.persistence.*;
